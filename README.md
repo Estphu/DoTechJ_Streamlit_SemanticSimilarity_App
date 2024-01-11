@@ -30,6 +30,15 @@ pip install annoy
 ```
 pip install scipy
 ```
+
+## After Installing
+
+Run this command
+
+```
+streamlit run two_doc_semantic_similarity.py
+```
+
 ## License
 
 Copyright Ⓒ DoTech J. All rights reserved.
