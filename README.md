@@ -30,3 +30,6 @@ pip install annoy
 ```
 pip install scipy
 ```
+## License
+
+Copyright Ⓒ DoTech J. All rights reserved.
