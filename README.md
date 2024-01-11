@@ -7,26 +7,26 @@ Calculates percentage for semantic similarity between two provided files (pdf, d
 
 Install these python packages:
 
-'''bash
+```
 pip install streamlit
-'''
+```
 
-'''bash
+'''
 pip install PyPDF2
 '''
 
-'''bash
+```
 pip install docx
-'''
+```
 
-'''bash
+```
 pip install sentence-transformers
-'''
+```
 
-'''bash
+```
 pip install annoy
-'''
+```
 
-'''bash
+```
 pip install scipy
-'''
+```
